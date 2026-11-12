@@ -1,5 +1,7 @@
 # Lobito · K-9 Tactical Companion
 
+[![GitHub Pages](https://github.com/tzayadet/Lobito/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/tzayadet/Lobito/actions/workflows/jekyll-gh-pages.yml)
+
 Experimento interactivo de mascota virtual canina presentado como una unidad K-9. La interfaz utiliza un lienzo Canvas y un HUD para mostrar sus necesidades y estado.
 
 **Demo:** https://tzayadet.github.io/Lobito/  
